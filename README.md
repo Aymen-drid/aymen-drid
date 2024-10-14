@@ -1,5 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aymen-drid)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymen-drid)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Aymen Drid</h1>
 <h3 align="center">I am a versatile front-end developer in both mobile and web development, leveraging technologies like React, Next.js, TypeScript, and Flutter. In addition to my development skills, I have a solid understanding of AI and machine learning principles, which I integrate into my problem-solving approach. I also possess a strong foundation in cybersecurity, with a focus on cryptography, ensuring that the solutions I create are both innovative and secure.</h3>
 
@@ -38,3 +36,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymen-drid&" alt="aymen-drid" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aymen-drid)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymen-drid)](https://github.com/anuraghazra/github-readme-stats)
