@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymen-drid" alt="aymen-drid" /></a> </p>
 
-- 🔭 I’m currently working on **sensetive alarm app**
-
-- 🌱 I’m currently learning **flutter,ML**
-
-- 👯 I’m looking to collaborate on **Ai projects**
-
 - 👨‍💻 All of my projects are available at [https://nextjs-portfo-fup3.vercel.app/](https://nextjs-portfo-fup3.vercel.app/)
 
 - 📝 I regularly write articles on [medium.com](medium.com)
