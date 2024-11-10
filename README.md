@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aymen Drid</h1>
-<h3 align="center">I am a versatile front-end developer in both mobile and web development, leveraging technologies like React, Next.js, TypeScript,js  and Flutter. In addition to my development skills, I have a solid understanding of AI and machine learning principles, which I integrate into my problem-solving approach. I also possess a strong foundation in cybersecurity, with a focus on cryptography, ensuring that the solutions I create are both innovative and secure.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymen-drid&label=Profile%20views&color=0e75b6&style=flat" alt="aymen-drid" /> </p>
 
