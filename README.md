@@ -5,16 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymen-drid" alt="aymen-drid" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://nextjs-portfo-fup3.vercel.app/](https://nextjs-portfo-fup3.vercel.app/)
-
-- 📝 I regularly write articles on [medium.com](medium.com)
-
-- 💬 Ask me about **react,flutter,python ,js**
-
-- 📫 How to reach me **aymendridforwork@gmail.com**
-
-- 📄 Know about my experiences [https://nextjs-portfo-fup3.vercel.app/resume](https://nextjs-portfo-fup3.vercel.app/resume)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aymn88181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aymn88181" height="30" width="40" /></a>
